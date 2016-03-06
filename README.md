@@ -1,4 +1,4 @@
-# TeamEMYY
+# Food Sorting Game by TeamEMYY
 Food Sorting Game developed using JavaScript / Phaser game engine.
 
 # Purpose
